@@ -1,0 +1,1 @@
+['C:\\Users\\njmau\\source\\repos\\CS3853Project\\CS3853Project\\comparchprject_main2.py', '-f', 'Trace1.trc', '-s', '8', '-b', '4', '-a', '8', '-r', 'RR']

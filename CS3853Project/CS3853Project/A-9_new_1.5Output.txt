@@ -1,0 +1,4322 @@
+['C:\\Users\\njmau\\source\\repos\\CS3853Project\\CS3853Project\\comparchprject_main2.py', '-f', 'A-9_new_1.5.pdf.trc', '-s', '512', '-b', '8', '-a', '8', '-r', 'RND']
+Cache Simulator - CS 3853 - Team 03
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 4  bytes
+Associativity:			 1
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  2048
+Total # Blocks: 		 2048
+Tag Size: 			 19  bits
+Index Size: 			 11  bits
+Total # Rows:: 			 2048
+Overhead Size: 			 5120.0 Bytes
+Implementation Memory Size: 	 13.0  KB	(13312.0  Bytes)
+Cost: 				 $0.65
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                266633
+Cache Misses:              83833
+--- Compulsary Misses:     2048
+--- Conflict Misses:       81785
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 76.0796 %
+Miss Rate:                23.9204 %
+CPI:                      3.31
+Unused Cache Space:       0.00  / 13.00  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  2048
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 4  bytes
+Associativity:			 1
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  2048
+Total # Blocks: 		 2048
+Tag Size: 			 19  bits
+Index Size: 			 11  bits
+Total # Rows:: 			 2048
+Overhead Size: 			 5120.0 Bytes
+Implementation Memory Size: 	 13.0  KB	(13312.0  Bytes)
+Cost: 				 $0.65
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                266633
+Cache Misses:              83833
+--- Compulsary Misses:     2048
+--- Conflict Misses:       81785
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 76.0796 %
+Miss Rate:                23.9204 %
+CPI:                      3.31
+Unused Cache Space:       0.00  / 13.00  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  2048
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 4  bytes
+Associativity:			 2
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  2048
+Total # Blocks: 		 2048
+Tag Size: 			 20  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 5376.0 Bytes
+Implementation Memory Size: 	 13.25  KB	(13568.0  Bytes)
+Cost: 				 $0.65
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                250714
+Cache Misses:              99752
+--- Compulsary Misses:     2048
+--- Conflict Misses:       97704
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 71.5373 %
+Miss Rate:                28.4627 %
+CPI:                      3.50
+Unused Cache Space:       0.00  / 13.25  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  2048
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 4  bytes
+Associativity:			 2
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  2048
+Total # Blocks: 		 2048
+Tag Size: 			 20  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 5376.0 Bytes
+Implementation Memory Size: 	 13.25  KB	(13568.0  Bytes)
+Cost: 				 $0.65
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                276188
+Cache Misses:              74278
+--- Compulsary Misses:     2048
+--- Conflict Misses:       72230
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 78.8059 %
+Miss Rate:                21.1941 %
+CPI:                      3.20
+Unused Cache Space:       0.00  / 13.25  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  2048
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 4  bytes
+Associativity:			 4
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  2048
+Total # Blocks: 		 2048
+Tag Size: 			 21  bits
+Index Size: 			 9  bits
+Total # Rows:: 			 512
+Overhead Size: 			 5632.0 Bytes
+Implementation Memory Size: 	 13.5  KB	(13824.0  Bytes)
+Cost: 				 $0.65
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                236542
+Cache Misses:              113924
+--- Compulsary Misses:     2048
+--- Conflict Misses:       111876
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 67.4936 %
+Miss Rate:                32.5064 %
+CPI:                      3.66
+Unused Cache Space:       0.00  / 13.50  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  2048
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 4  bytes
+Associativity:			 4
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  2048
+Total # Blocks: 		 2048
+Tag Size: 			 21  bits
+Index Size: 			 9  bits
+Total # Rows:: 			 512
+Overhead Size: 			 5632.0 Bytes
+Implementation Memory Size: 	 13.5  KB	(13824.0  Bytes)
+Cost: 				 $0.65
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                281908
+Cache Misses:              68558
+--- Compulsary Misses:     2048
+--- Conflict Misses:       66510
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 80.4380 %
+Miss Rate:                19.5620 %
+CPI:                      3.14
+Unused Cache Space:       0.00  / 13.50  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  2048
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 4  bytes
+Associativity:			 8
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  2048
+Total # Blocks: 		 2048
+Tag Size: 			 22  bits
+Index Size: 			 8  bits
+Total # Rows:: 			 256
+Overhead Size: 			 5888.0 Bytes
+Implementation Memory Size: 	 13.75  KB	(14080.0  Bytes)
+Cost: 				 $0.65
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                217504
+Cache Misses:              132962
+--- Compulsary Misses:     2048
+--- Conflict Misses:       130914
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 62.0614 %
+Miss Rate:                37.9386 %
+CPI:                      3.88
+Unused Cache Space:       0.00  / 13.75  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  2048
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 4  bytes
+Associativity:			 8
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  2048
+Total # Blocks: 		 2048
+Tag Size: 			 22  bits
+Index Size: 			 8  bits
+Total # Rows:: 			 256
+Overhead Size: 			 5888.0 Bytes
+Implementation Memory Size: 	 13.75  KB	(14080.0  Bytes)
+Cost: 				 $0.65
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                282761
+Cache Misses:              67705
+--- Compulsary Misses:     2048
+--- Conflict Misses:       65657
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 80.6814 %
+Miss Rate:                19.3186 %
+CPI:                      3.13
+Unused Cache Space:       0.00  / 13.75  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  2048
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 4  bytes
+Associativity:			 16
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  2048
+Total # Blocks: 		 2048
+Tag Size: 			 23  bits
+Index Size: 			 7  bits
+Total # Rows:: 			 128
+Overhead Size: 			 6144.0 Bytes
+Implementation Memory Size: 	 14.0  KB	(14336.0  Bytes)
+Cost: 				 $0.70
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                208074
+Cache Misses:              142392
+--- Compulsary Misses:     2048
+--- Conflict Misses:       140344
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 59.3707 %
+Miss Rate:                40.6293 %
+CPI:                      3.99
+Unused Cache Space:       0.00  / 14.00  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  2048
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 4  bytes
+Associativity:			 16
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  2048
+Total # Blocks: 		 2048
+Tag Size: 			 23  bits
+Index Size: 			 7  bits
+Total # Rows:: 			 128
+Overhead Size: 			 6144.0 Bytes
+Implementation Memory Size: 	 14.0  KB	(14336.0  Bytes)
+Cost: 				 $0.70
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                282979
+Cache Misses:              67487
+--- Compulsary Misses:     2048
+--- Conflict Misses:       65439
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 80.7436 %
+Miss Rate:                19.2564 %
+CPI:                      3.12
+Unused Cache Space:       0.00  / 14.00  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  2048
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 16  bytes
+Associativity:			 1
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  512
+Total # Blocks: 		 512
+Tag Size: 			 19  bits
+Index Size: 			 9  bits
+Total # Rows:: 			 512
+Overhead Size: 			 1280.0 Bytes
+Implementation Memory Size: 	 9.25  KB	(9472.0  Bytes)
+Cost: 				 $0.45
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                309300
+Cache Misses:              41166
+--- Compulsary Misses:     512
+--- Conflict Misses:       40654
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 88.2539 %
+Miss Rate:                11.7461 %
+CPI:                      4.24
+Unused Cache Space:       0.00  / 9.25  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  512
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 16  bytes
+Associativity:			 1
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  512
+Total # Blocks: 		 512
+Tag Size: 			 19  bits
+Index Size: 			 9  bits
+Total # Rows:: 			 512
+Overhead Size: 			 1280.0 Bytes
+Implementation Memory Size: 	 9.25  KB	(9472.0  Bytes)
+Cost: 				 $0.45
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                309300
+Cache Misses:              41166
+--- Compulsary Misses:     512
+--- Conflict Misses:       40654
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 88.2539 %
+Miss Rate:                11.7461 %
+CPI:                      4.24
+Unused Cache Space:       0.00  / 9.25  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  512
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 16  bytes
+Associativity:			 2
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  512
+Total # Blocks: 		 512
+Tag Size: 			 20  bits
+Index Size: 			 8  bits
+Total # Rows:: 			 256
+Overhead Size: 			 1344.0 Bytes
+Implementation Memory Size: 	 9.3125  KB	(9536.0  Bytes)
+Cost: 				 $0.45
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                300972
+Cache Misses:              49494
+--- Compulsary Misses:     512
+--- Conflict Misses:       48982
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 85.8777 %
+Miss Rate:                14.1223 %
+CPI:                      4.63
+Unused Cache Space:       0.00  / 9.31  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  512
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 16  bytes
+Associativity:			 2
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  512
+Total # Blocks: 		 512
+Tag Size: 			 20  bits
+Index Size: 			 8  bits
+Total # Rows:: 			 256
+Overhead Size: 			 1344.0 Bytes
+Implementation Memory Size: 	 9.3125  KB	(9536.0  Bytes)
+Cost: 				 $0.45
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                314964
+Cache Misses:              35502
+--- Compulsary Misses:     512
+--- Conflict Misses:       34990
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 89.8701 %
+Miss Rate:                10.1299 %
+CPI:                      3.98
+Unused Cache Space:       0.00  / 9.31  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  512
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 16  bytes
+Associativity:			 4
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  512
+Total # Blocks: 		 512
+Tag Size: 			 21  bits
+Index Size: 			 7  bits
+Total # Rows:: 			 128
+Overhead Size: 			 1408.0 Bytes
+Implementation Memory Size: 	 9.375  KB	(9600.0  Bytes)
+Cost: 				 $0.45
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                293473
+Cache Misses:              56993
+--- Compulsary Misses:     512
+--- Conflict Misses:       56481
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 83.7379 %
+Miss Rate:                16.2621 %
+CPI:                      4.97
+Unused Cache Space:       0.00  / 9.38  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  512
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 16  bytes
+Associativity:			 4
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  512
+Total # Blocks: 		 512
+Tag Size: 			 21  bits
+Index Size: 			 7  bits
+Total # Rows:: 			 128
+Overhead Size: 			 1408.0 Bytes
+Implementation Memory Size: 	 9.375  KB	(9600.0  Bytes)
+Cost: 				 $0.45
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                318544
+Cache Misses:              31922
+--- Compulsary Misses:     512
+--- Conflict Misses:       31410
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.8916 %
+Miss Rate:                9.1084 %
+CPI:                      3.82
+Unused Cache Space:       0.00  / 9.38  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  512
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 16  bytes
+Associativity:			 8
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  512
+Total # Blocks: 		 512
+Tag Size: 			 22  bits
+Index Size: 			 6  bits
+Total # Rows:: 			 64
+Overhead Size: 			 1472.0 Bytes
+Implementation Memory Size: 	 9.4375  KB	(9664.0  Bytes)
+Cost: 				 $0.45
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                283865
+Cache Misses:              66601
+--- Compulsary Misses:     512
+--- Conflict Misses:       66089
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 80.9964 %
+Miss Rate:                19.0036 %
+CPI:                      5.42
+Unused Cache Space:       0.00  / 9.44  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  512
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 16  bytes
+Associativity:			 8
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  512
+Total # Blocks: 		 512
+Tag Size: 			 22  bits
+Index Size: 			 6  bits
+Total # Rows:: 			 64
+Overhead Size: 			 1472.0 Bytes
+Implementation Memory Size: 	 9.4375  KB	(9664.0  Bytes)
+Cost: 				 $0.45
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                319881
+Cache Misses:              30585
+--- Compulsary Misses:     512
+--- Conflict Misses:       30073
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 91.2730 %
+Miss Rate:                8.7270 %
+CPI:                      3.76
+Unused Cache Space:       0.00  / 9.44  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  512
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 16  bytes
+Associativity:			 16
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  512
+Total # Blocks: 		 512
+Tag Size: 			 23  bits
+Index Size: 			 5  bits
+Total # Rows:: 			 32
+Overhead Size: 			 1536.0 Bytes
+Implementation Memory Size: 	 9.5  KB	(9728.0  Bytes)
+Cost: 				 $0.45
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                275731
+Cache Misses:              74735
+--- Compulsary Misses:     512
+--- Conflict Misses:       74223
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 78.6755 %
+Miss Rate:                21.3245 %
+CPI:                      5.79
+Unused Cache Space:       0.00  / 9.50  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  512
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 16  bytes
+Associativity:			 16
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  512
+Total # Blocks: 		 512
+Tag Size: 			 23  bits
+Index Size: 			 5  bits
+Total # Rows:: 			 32
+Overhead Size: 			 1536.0 Bytes
+Implementation Memory Size: 	 9.5  KB	(9728.0  Bytes)
+Cost: 				 $0.45
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                319901
+Cache Misses:              30565
+--- Compulsary Misses:     512
+--- Conflict Misses:       30053
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 91.2788 %
+Miss Rate:                8.7212 %
+CPI:                      3.76
+Unused Cache Space:       0.00  / 9.50  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  512
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 64  bytes
+Associativity:			 1
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  128
+Total # Blocks: 		 128
+Tag Size: 			 19  bits
+Index Size: 			 7  bits
+Total # Rows:: 			 128
+Overhead Size: 			 320.0 Bytes
+Implementation Memory Size: 	 8.3125  KB	(8512.0  Bytes)
+Cost: 				 $0.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                322904
+Cache Misses:              27562
+--- Compulsary Misses:     128
+--- Conflict Misses:       27434
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 92.1356 %
+Miss Rate:                7.8644 %
+CPI:                      7.43
+Unused Cache Space:       0.00  / 8.31  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  128
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 64  bytes
+Associativity:			 1
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  128
+Total # Blocks: 		 128
+Tag Size: 			 19  bits
+Index Size: 			 7  bits
+Total # Rows:: 			 128
+Overhead Size: 			 320.0 Bytes
+Implementation Memory Size: 	 8.3125  KB	(8512.0  Bytes)
+Cost: 				 $0.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                322904
+Cache Misses:              27562
+--- Compulsary Misses:     128
+--- Conflict Misses:       27434
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 92.1356 %
+Miss Rate:                7.8644 %
+CPI:                      7.43
+Unused Cache Space:       0.00  / 8.31  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  128
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 64  bytes
+Associativity:			 2
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  128
+Total # Blocks: 		 128
+Tag Size: 			 20  bits
+Index Size: 			 6  bits
+Total # Rows:: 			 64
+Overhead Size: 			 336.0 Bytes
+Implementation Memory Size: 	 8.328125  KB	(8528.0  Bytes)
+Cost: 				 $0.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315963
+Cache Misses:              34503
+--- Compulsary Misses:     128
+--- Conflict Misses:       34375
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.1551 %
+Miss Rate:                9.8449 %
+CPI:                      8.71
+Unused Cache Space:       0.00  / 8.33  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  128
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 64  bytes
+Associativity:			 2
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  128
+Total # Blocks: 		 128
+Tag Size: 			 20  bits
+Index Size: 			 6  bits
+Total # Rows:: 			 64
+Overhead Size: 			 336.0 Bytes
+Implementation Memory Size: 	 8.328125  KB	(8528.0  Bytes)
+Cost: 				 $0.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                327693
+Cache Misses:              22773
+--- Compulsary Misses:     128
+--- Conflict Misses:       22645
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 93.5021 %
+Miss Rate:                6.4979 %
+CPI:                      6.55
+Unused Cache Space:       0.00  / 8.33  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  128
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 64  bytes
+Associativity:			 4
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  128
+Total # Blocks: 		 128
+Tag Size: 			 21  bits
+Index Size: 			 5  bits
+Total # Rows:: 			 32
+Overhead Size: 			 352.0 Bytes
+Implementation Memory Size: 	 8.34375  KB	(8544.0  Bytes)
+Cost: 				 $0.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                309875
+Cache Misses:              40591
+--- Compulsary Misses:     128
+--- Conflict Misses:       40463
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 88.4180 %
+Miss Rate:                11.5820 %
+CPI:                      9.83
+Unused Cache Space:       0.00  / 8.34  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  128
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 64  bytes
+Associativity:			 4
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  128
+Total # Blocks: 		 128
+Tag Size: 			 21  bits
+Index Size: 			 5  bits
+Total # Rows:: 			 32
+Overhead Size: 			 352.0 Bytes
+Implementation Memory Size: 	 8.34375  KB	(8544.0  Bytes)
+Cost: 				 $0.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                330474
+Cache Misses:              19992
+--- Compulsary Misses:     128
+--- Conflict Misses:       19864
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 94.2956 %
+Miss Rate:                5.7044 %
+CPI:                      6.03
+Unused Cache Space:       0.00  / 8.34  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  128
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 64  bytes
+Associativity:			 8
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  128
+Total # Blocks: 		 128
+Tag Size: 			 22  bits
+Index Size: 			 4  bits
+Total # Rows:: 			 16
+Overhead Size: 			 368.0 Bytes
+Implementation Memory Size: 	 8.359375  KB	(8560.0  Bytes)
+Cost: 				 $0.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                303011
+Cache Misses:              47455
+--- Compulsary Misses:     128
+--- Conflict Misses:       47327
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 86.4595 %
+Miss Rate:                13.5405 %
+CPI:                      11.10
+Unused Cache Space:       0.00  / 8.36  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  128
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 64  bytes
+Associativity:			 8
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  128
+Total # Blocks: 		 128
+Tag Size: 			 22  bits
+Index Size: 			 4  bits
+Total # Rows:: 			 16
+Overhead Size: 			 368.0 Bytes
+Implementation Memory Size: 	 8.359375  KB	(8560.0  Bytes)
+Cost: 				 $0.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                331900
+Cache Misses:              18566
+--- Compulsary Misses:     128
+--- Conflict Misses:       18438
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 94.7025 %
+Miss Rate:                5.2975 %
+CPI:                      5.77
+Unused Cache Space:       0.00  / 8.36  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  128
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 64  bytes
+Associativity:			 16
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  128
+Total # Blocks: 		 128
+Tag Size: 			 23  bits
+Index Size: 			 3  bits
+Total # Rows:: 			 8
+Overhead Size: 			 384.0 Bytes
+Implementation Memory Size: 	 8.375  KB	(8576.0  Bytes)
+Cost: 				 $0.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                288765
+Cache Misses:              61701
+--- Compulsary Misses:     128
+--- Conflict Misses:       61573
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 82.3946 %
+Miss Rate:                17.6054 %
+CPI:                      13.72
+Unused Cache Space:       0.00  / 8.38  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  128
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 8  kb
+Block Size:			 64  bytes
+Associativity:			 16
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  128
+Total # Blocks: 		 128
+Tag Size: 			 23  bits
+Index Size: 			 3  bits
+Total # Rows:: 			 8
+Overhead Size: 			 384.0 Bytes
+Implementation Memory Size: 	 8.375  KB	(8576.0  Bytes)
+Cost: 				 $0.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                332297
+Cache Misses:              18169
+--- Compulsary Misses:     128
+--- Conflict Misses:       18041
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 94.8158 %
+Miss Rate:                5.1842 %
+CPI:                      5.70
+Unused Cache Space:       0.00  / 8.38  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  128
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 4  bytes
+Associativity:			 1
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 16  bits
+Index Size: 			 14  bits
+Total # Rows:: 			 16384
+Overhead Size: 			 34816.0 Bytes
+Implementation Memory Size: 	 98.0  KB	(100352.0  Bytes)
+Cost: 				 $4.90
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                307345
+Cache Misses:              43121
+--- Compulsary Misses:     14460
+--- Conflict Misses:       28661
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 87.6961 %
+Miss Rate:                12.3039 %
+CPI:                      2.84
+Unused Cache Space:       11.51  / 98.00  KB = 11.74 % Waste: $0.58
+Unused Cache Blocks:        1924  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 4  bytes
+Associativity:			 1
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 16  bits
+Index Size: 			 14  bits
+Total # Rows:: 			 16384
+Overhead Size: 			 34816.0 Bytes
+Implementation Memory Size: 	 98.0  KB	(100352.0  Bytes)
+Cost: 				 $4.90
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                307345
+Cache Misses:              43121
+--- Compulsary Misses:     14460
+--- Conflict Misses:       28661
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 87.6961 %
+Miss Rate:                12.3039 %
+CPI:                      2.84
+Unused Cache Space:       11.51  / 98.00  KB = 11.74 % Waste: $0.58
+Unused Cache Blocks:        1924  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 4  bytes
+Associativity:			 2
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 17  bits
+Index Size: 			 13  bits
+Total # Rows:: 			 8192
+Overhead Size: 			 36864.0 Bytes
+Implementation Memory Size: 	 100.0  KB	(102400.0  Bytes)
+Cost: 				 $5.00
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                306704
+Cache Misses:              43762
+--- Compulsary Misses:     15626
+--- Conflict Misses:       28136
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 87.5132 %
+Miss Rate:                12.4868 %
+CPI:                      2.85
+Unused Cache Space:       4.63  / 100.00  KB = 4.63 % Waste: $0.23
+Unused Cache Blocks:        758  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 4  bytes
+Associativity:			 2
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 17  bits
+Index Size: 			 13  bits
+Total # Rows:: 			 8192
+Overhead Size: 			 36864.0 Bytes
+Implementation Memory Size: 	 100.0  KB	(102400.0  Bytes)
+Cost: 				 $5.00
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                310482
+Cache Misses:              39984
+--- Compulsary Misses:     15626
+--- Conflict Misses:       24358
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 88.5912 %
+Miss Rate:                11.4088 %
+CPI:                      2.81
+Unused Cache Space:       4.63  / 100.00  KB = 4.63 % Waste: $0.23
+Unused Cache Blocks:        758  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 4  bytes
+Associativity:			 4
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 18  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 38912.0 Bytes
+Implementation Memory Size: 	 102.0  KB	(104448.0  Bytes)
+Cost: 				 $5.10
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                300759
+Cache Misses:              49707
+--- Compulsary Misses:     16285
+--- Conflict Misses:       33422
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 85.8169 %
+Miss Rate:                14.1831 %
+CPI:                      2.92
+Unused Cache Space:       0.62  / 102.00  KB = 0.60 % Waste: $0.03
+Unused Cache Blocks:        99  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 4  bytes
+Associativity:			 4
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 18  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 38912.0 Bytes
+Implementation Memory Size: 	 102.0  KB	(104448.0  Bytes)
+Cost: 				 $5.10
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                311602
+Cache Misses:              38864
+--- Compulsary Misses:     16285
+--- Conflict Misses:       22579
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 88.9108 %
+Miss Rate:                11.0892 %
+CPI:                      2.79
+Unused Cache Space:       0.62  / 102.00  KB = 0.60 % Waste: $0.03
+Unused Cache Blocks:        99  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 4  bytes
+Associativity:			 8
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 19  bits
+Index Size: 			 11  bits
+Total # Rows:: 			 2048
+Overhead Size: 			 40960.0 Bytes
+Implementation Memory Size: 	 104.0  KB	(106496.0  Bytes)
+Cost: 				 $5.20
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                292671
+Cache Misses:              57795
+--- Compulsary Misses:     16380
+--- Conflict Misses:       41415
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 83.5091 %
+Miss Rate:                16.4909 %
+CPI:                      3.01
+Unused Cache Space:       0.03  / 104.00  KB = 0.02 % Waste: $0.00
+Unused Cache Blocks:        4  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 4  bytes
+Associativity:			 8
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 19  bits
+Index Size: 			 11  bits
+Total # Rows:: 			 2048
+Overhead Size: 			 40960.0 Bytes
+Implementation Memory Size: 	 104.0  KB	(106496.0  Bytes)
+Cost: 				 $5.20
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                312251
+Cache Misses:              38215
+--- Compulsary Misses:     16380
+--- Conflict Misses:       21835
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 89.0959 %
+Miss Rate:                10.9041 %
+CPI:                      2.79
+Unused Cache Space:       0.03  / 104.00  KB = 0.02 % Waste: $0.00
+Unused Cache Blocks:        4  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 4  bytes
+Associativity:			 16
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 20  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 43008.0 Bytes
+Implementation Memory Size: 	 106.0  KB	(108544.0  Bytes)
+Cost: 				 $5.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                280542
+Cache Misses:              69924
+--- Compulsary Misses:     16384
+--- Conflict Misses:       53540
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 80.0483 %
+Miss Rate:                19.9517 %
+CPI:                      3.15
+Unused Cache Space:       0.00  / 106.00  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 4  bytes
+Associativity:			 16
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 20  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 43008.0 Bytes
+Implementation Memory Size: 	 106.0  KB	(108544.0  Bytes)
+Cost: 				 $5.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                312628
+Cache Misses:              37838
+--- Compulsary Misses:     16384
+--- Conflict Misses:       21454
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 89.2035 %
+Miss Rate:                10.7965 %
+CPI:                      2.78
+Unused Cache Space:       0.00  / 106.00  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 16  bytes
+Associativity:			 1
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 16  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 8704.0 Bytes
+Implementation Memory Size: 	 72.5  KB	(74240.0  Bytes)
+Cost: 				 $3.60
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                332756
+Cache Misses:              17710
+--- Compulsary Misses:     3923
+--- Conflict Misses:       13787
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 94.9467 %
+Miss Rate:                5.0533 %
+CPI:                      3.16
+Unused Cache Space:       3.06  / 72.50  KB = 4.22 % Waste: $0.15
+Unused Cache Blocks:        173  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 16  bytes
+Associativity:			 1
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 16  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 8704.0 Bytes
+Implementation Memory Size: 	 72.5  KB	(74240.0  Bytes)
+Cost: 				 $3.60
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                332756
+Cache Misses:              17710
+--- Compulsary Misses:     3923
+--- Conflict Misses:       13787
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 94.9467 %
+Miss Rate:                5.0533 %
+CPI:                      3.16
+Unused Cache Space:       3.06  / 72.50  KB = 4.22 % Waste: $0.15
+Unused Cache Blocks:        173  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 16  bytes
+Associativity:			 2
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 17  bits
+Index Size: 			 11  bits
+Total # Rows:: 			 2048
+Overhead Size: 			 9216.0 Bytes
+Implementation Memory Size: 	 73.0  KB	(74752.0  Bytes)
+Cost: 				 $3.65
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                331875
+Cache Misses:              18591
+--- Compulsary Misses:     4056
+--- Conflict Misses:       14535
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 94.6953 %
+Miss Rate:                5.3047 %
+CPI:                      3.20
+Unused Cache Space:       0.71  / 73.00  KB = 0.98 % Waste: $0.04
+Unused Cache Blocks:        40  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 16  bytes
+Associativity:			 2
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 17  bits
+Index Size: 			 11  bits
+Total # Rows:: 			 2048
+Overhead Size: 			 9216.0 Bytes
+Implementation Memory Size: 	 73.0  KB	(74752.0  Bytes)
+Cost: 				 $3.65
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                334644
+Cache Misses:              15822
+--- Compulsary Misses:     4056
+--- Conflict Misses:       11766
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 95.4854 %
+Miss Rate:                4.5146 %
+CPI:                      3.08
+Unused Cache Space:       0.71  / 73.00  KB = 0.98 % Waste: $0.04
+Unused Cache Blocks:        40  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 16  bytes
+Associativity:			 4
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 18  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 9728.0 Bytes
+Implementation Memory Size: 	 73.5  KB	(75264.0  Bytes)
+Cost: 				 $3.65
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                328096
+Cache Misses:              22370
+--- Compulsary Misses:     4096
+--- Conflict Misses:       18274
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 93.6171 %
+Miss Rate:                6.3829 %
+CPI:                      3.38
+Unused Cache Space:       0.00  / 73.50  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 16  bytes
+Associativity:			 4
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 18  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 9728.0 Bytes
+Implementation Memory Size: 	 73.5  KB	(75264.0  Bytes)
+Cost: 				 $3.65
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                335213
+Cache Misses:              15253
+--- Compulsary Misses:     4096
+--- Conflict Misses:       11157
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 95.6478 %
+Miss Rate:                4.3522 %
+CPI:                      3.05
+Unused Cache Space:       0.00  / 73.50  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 16  bytes
+Associativity:			 8
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 19  bits
+Index Size: 			 9  bits
+Total # Rows:: 			 512
+Overhead Size: 			 10240.0 Bytes
+Implementation Memory Size: 	 74.0  KB	(75776.0  Bytes)
+Cost: 				 $3.70
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                322397
+Cache Misses:              28069
+--- Compulsary Misses:     4096
+--- Conflict Misses:       23973
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 91.9909 %
+Miss Rate:                8.0091 %
+CPI:                      3.64
+Unused Cache Space:       0.00  / 74.00  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 16  bytes
+Associativity:			 8
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 19  bits
+Index Size: 			 9  bits
+Total # Rows:: 			 512
+Overhead Size: 			 10240.0 Bytes
+Implementation Memory Size: 	 74.0  KB	(75776.0  Bytes)
+Cost: 				 $3.70
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                335702
+Cache Misses:              14764
+--- Compulsary Misses:     4096
+--- Conflict Misses:       10668
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 95.7873 %
+Miss Rate:                4.2127 %
+CPI:                      3.03
+Unused Cache Space:       0.00  / 74.00  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 16  bytes
+Associativity:			 16
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 20  bits
+Index Size: 			 8  bits
+Total # Rows:: 			 256
+Overhead Size: 			 10752.0 Bytes
+Implementation Memory Size: 	 74.5  KB	(76288.0  Bytes)
+Cost: 				 $3.70
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315391
+Cache Misses:              35075
+--- Compulsary Misses:     4096
+--- Conflict Misses:       30979
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 89.9919 %
+Miss Rate:                10.0081 %
+CPI:                      3.96
+Unused Cache Space:       0.00  / 74.50  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 16  bytes
+Associativity:			 16
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 20  bits
+Index Size: 			 8  bits
+Total # Rows:: 			 256
+Overhead Size: 			 10752.0 Bytes
+Implementation Memory Size: 	 74.5  KB	(76288.0  Bytes)
+Cost: 				 $3.70
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                335792
+Cache Misses:              14674
+--- Compulsary Misses:     4096
+--- Conflict Misses:       10578
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 95.8130 %
+Miss Rate:                4.1870 %
+CPI:                      3.02
+Unused Cache Space:       0.00  / 74.50  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 64  bytes
+Associativity:			 1
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  1024
+Total # Blocks: 		 1024
+Tag Size: 			 16  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 2176.0 Bytes
+Implementation Memory Size: 	 66.125  KB	(67712.0  Bytes)
+Cost: 				 $3.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                341047
+Cache Misses:              9419
+--- Compulsary Misses:     1016
+--- Conflict Misses:       8403
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 97.3124 %
+Miss Rate:                2.6876 %
+CPI:                      4.08
+Unused Cache Space:       0.52  / 66.12  KB = 0.78 % Waste: $0.03
+Unused Cache Blocks:        8  /  1024
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 64  bytes
+Associativity:			 1
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  1024
+Total # Blocks: 		 1024
+Tag Size: 			 16  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 2176.0 Bytes
+Implementation Memory Size: 	 66.125  KB	(67712.0  Bytes)
+Cost: 				 $3.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                341047
+Cache Misses:              9419
+--- Compulsary Misses:     1016
+--- Conflict Misses:       8403
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 97.3124 %
+Miss Rate:                2.6876 %
+CPI:                      4.08
+Unused Cache Space:       0.52  / 66.12  KB = 0.78 % Waste: $0.03
+Unused Cache Blocks:        8  /  1024
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 64  bytes
+Associativity:			 2
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  1024
+Total # Blocks: 		 1024
+Tag Size: 			 17  bits
+Index Size: 			 9  bits
+Total # Rows:: 			 512
+Overhead Size: 			 2304.0 Bytes
+Implementation Memory Size: 	 66.25  KB	(67840.0  Bytes)
+Cost: 				 $3.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                340292
+Cache Misses:              10174
+--- Compulsary Misses:     1023
+--- Conflict Misses:       9151
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 97.0970 %
+Miss Rate:                2.9030 %
+CPI:                      4.22
+Unused Cache Space:       0.06  / 66.25  KB = 0.10 % Waste: $0.00
+Unused Cache Blocks:        1  /  1024
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 64  bytes
+Associativity:			 2
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  1024
+Total # Blocks: 		 1024
+Tag Size: 			 17  bits
+Index Size: 			 9  bits
+Total # Rows:: 			 512
+Overhead Size: 			 2304.0 Bytes
+Implementation Memory Size: 	 66.25  KB	(67840.0  Bytes)
+Cost: 				 $3.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                342839
+Cache Misses:              7627
+--- Compulsary Misses:     1023
+--- Conflict Misses:       6604
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 97.8238 %
+Miss Rate:                2.1762 %
+CPI:                      3.75
+Unused Cache Space:       0.06  / 66.25  KB = 0.10 % Waste: $0.00
+Unused Cache Blocks:        1  /  1024
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 64  bytes
+Associativity:			 4
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  1024
+Total # Blocks: 		 1024
+Tag Size: 			 18  bits
+Index Size: 			 8  bits
+Total # Rows:: 			 256
+Overhead Size: 			 2432.0 Bytes
+Implementation Memory Size: 	 66.375  KB	(67968.0  Bytes)
+Cost: 				 $3.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                337583
+Cache Misses:              12883
+--- Compulsary Misses:     1024
+--- Conflict Misses:       11859
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.3240 %
+Miss Rate:                3.6760 %
+CPI:                      4.72
+Unused Cache Space:       0.00  / 66.38  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  1024
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 64  bytes
+Associativity:			 4
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  1024
+Total # Blocks: 		 1024
+Tag Size: 			 18  bits
+Index Size: 			 8  bits
+Total # Rows:: 			 256
+Overhead Size: 			 2432.0 Bytes
+Implementation Memory Size: 	 66.375  KB	(67968.0  Bytes)
+Cost: 				 $3.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                343198
+Cache Misses:              7268
+--- Compulsary Misses:     1024
+--- Conflict Misses:       6244
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 97.9262 %
+Miss Rate:                2.0738 %
+CPI:                      3.69
+Unused Cache Space:       0.00  / 66.38  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  1024
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 64  bytes
+Associativity:			 8
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  1024
+Total # Blocks: 		 1024
+Tag Size: 			 19  bits
+Index Size: 			 7  bits
+Total # Rows:: 			 128
+Overhead Size: 			 2560.0 Bytes
+Implementation Memory Size: 	 66.5  KB	(68096.0  Bytes)
+Cost: 				 $3.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                333596
+Cache Misses:              16870
+--- Compulsary Misses:     1024
+--- Conflict Misses:       15846
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 95.1864 %
+Miss Rate:                4.8136 %
+CPI:                      5.46
+Unused Cache Space:       0.00  / 66.50  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  1024
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 64  bytes
+Associativity:			 8
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  1024
+Total # Blocks: 		 1024
+Tag Size: 			 19  bits
+Index Size: 			 7  bits
+Total # Rows:: 			 128
+Overhead Size: 			 2560.0 Bytes
+Implementation Memory Size: 	 66.5  KB	(68096.0  Bytes)
+Cost: 				 $3.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                343490
+Cache Misses:              6976
+--- Compulsary Misses:     1024
+--- Conflict Misses:       5952
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.0095 %
+Miss Rate:                1.9905 %
+CPI:                      3.63
+Unused Cache Space:       0.00  / 66.50  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  1024
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 64  bytes
+Associativity:			 16
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  1024
+Total # Blocks: 		 1024
+Tag Size: 			 20  bits
+Index Size: 			 6  bits
+Total # Rows:: 			 64
+Overhead Size: 			 2688.0 Bytes
+Implementation Memory Size: 	 66.625  KB	(68224.0  Bytes)
+Cost: 				 $3.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                329258
+Cache Misses:              21208
+--- Compulsary Misses:     1024
+--- Conflict Misses:       20184
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 93.9486 %
+Miss Rate:                6.0514 %
+CPI:                      6.26
+Unused Cache Space:       0.00  / 66.62  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  1024
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 64  kb
+Block Size:			 64  bytes
+Associativity:			 16
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  1024
+Total # Blocks: 		 1024
+Tag Size: 			 20  bits
+Index Size: 			 6  bits
+Total # Rows:: 			 64
+Overhead Size: 			 2688.0 Bytes
+Implementation Memory Size: 	 66.625  KB	(68224.0  Bytes)
+Cost: 				 $3.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                343628
+Cache Misses:              6838
+--- Compulsary Misses:     1024
+--- Conflict Misses:       5814
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.0489 %
+Miss Rate:                1.9511 %
+CPI:                      3.61
+Unused Cache Space:       0.00  / 66.62  KB = 0.00 % Waste: $0.00
+Unused Cache Blocks:        0  /  1024
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 4  bytes
+Associativity:			 1
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 14  bits
+Index Size: 			 16  bits
+Total # Rows:: 			 65536
+Overhead Size: 			 122880.0 Bytes
+Implementation Memory Size: 	 376.0  KB	(385024.0  Bytes)
+Cost: 				 $18.80
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                313540
+Cache Misses:              36926
+--- Compulsary Misses:     26637
+--- Conflict Misses:       10289
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 89.4637 %
+Miss Rate:                10.5363 %
+CPI:                      2.77
+Unused Cache Space:       223.18  / 376.00  KB = 59.36 % Waste: $11.16
+Unused Cache Blocks:        38899  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 4  bytes
+Associativity:			 1
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 14  bits
+Index Size: 			 16  bits
+Total # Rows:: 			 65536
+Overhead Size: 			 122880.0 Bytes
+Implementation Memory Size: 	 376.0  KB	(385024.0  Bytes)
+Cost: 				 $18.80
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                313540
+Cache Misses:              36926
+--- Compulsary Misses:     26637
+--- Conflict Misses:       10289
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 89.4637 %
+Miss Rate:                10.5363 %
+CPI:                      2.77
+Unused Cache Space:       223.18  / 376.00  KB = 59.36 % Waste: $11.16
+Unused Cache Blocks:        38899  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 4  bytes
+Associativity:			 2
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 15  bits
+Index Size: 			 15  bits
+Total # Rows:: 			 32768
+Overhead Size: 			 131072.0 Bytes
+Implementation Memory Size: 	 384.0  KB	(393216.0  Bytes)
+Cost: 				 $19.20
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                314629
+Cache Misses:              35837
+--- Compulsary Misses:     30223
+--- Conflict Misses:       5614
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 89.7745 %
+Miss Rate:                10.2255 %
+CPI:                      2.76
+Unused Cache Space:       206.91  / 384.00  KB = 53.88 % Waste: $10.35
+Unused Cache Blocks:        35313  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 4  bytes
+Associativity:			 2
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 15  bits
+Index Size: 			 15  bits
+Total # Rows:: 			 32768
+Overhead Size: 			 131072.0 Bytes
+Implementation Memory Size: 	 384.0  KB	(393216.0  Bytes)
+Cost: 				 $19.20
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315016
+Cache Misses:              35450
+--- Compulsary Misses:     30223
+--- Conflict Misses:       5227
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 89.8849 %
+Miss Rate:                10.1151 %
+CPI:                      2.75
+Unused Cache Space:       206.91  / 384.00  KB = 53.88 % Waste: $10.35
+Unused Cache Blocks:        35313  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 4  bytes
+Associativity:			 4
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 16  bits
+Index Size: 			 14  bits
+Total # Rows:: 			 16384
+Overhead Size: 			 139264.0 Bytes
+Implementation Memory Size: 	 392.0  KB	(401408.0  Bytes)
+Cost: 				 $19.60
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315162
+Cache Misses:              35304
+--- Compulsary Misses:     33206
+--- Conflict Misses:       2098
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 89.9266 %
+Miss Rate:                10.0734 %
+CPI:                      2.75
+Unused Cache Space:       193.38  / 392.00  KB = 49.33 % Waste: $9.67
+Unused Cache Blocks:        32330  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 4  bytes
+Associativity:			 4
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 16  bits
+Index Size: 			 14  bits
+Total # Rows:: 			 16384
+Overhead Size: 			 139264.0 Bytes
+Implementation Memory Size: 	 392.0  KB	(401408.0  Bytes)
+Cost: 				 $19.60
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315519
+Cache Misses:              34947
+--- Compulsary Misses:     33206
+--- Conflict Misses:       1741
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.0284 %
+Miss Rate:                9.9716 %
+CPI:                      2.75
+Unused Cache Space:       193.38  / 392.00  KB = 49.33 % Waste: $9.67
+Unused Cache Blocks:        32330  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 4  bytes
+Associativity:			 8
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 17  bits
+Index Size: 			 13  bits
+Total # Rows:: 			 8192
+Overhead Size: 			 147456.0 Bytes
+Implementation Memory Size: 	 400.0  KB	(409600.0  Bytes)
+Cost: 				 $20.00
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315589
+Cache Misses:              34877
+--- Compulsary Misses:     34430
+--- Conflict Misses:       447
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.0484 %
+Miss Rate:                9.9516 %
+CPI:                      2.75
+Unused Cache Space:       189.86  / 400.00  KB = 47.46 % Waste: $9.49
+Unused Cache Blocks:        31106  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 4  bytes
+Associativity:			 8
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 17  bits
+Index Size: 			 13  bits
+Total # Rows:: 			 8192
+Overhead Size: 			 147456.0 Bytes
+Implementation Memory Size: 	 400.0  KB	(409600.0  Bytes)
+Cost: 				 $20.00
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315689
+Cache Misses:              34777
+--- Compulsary Misses:     34430
+--- Conflict Misses:       347
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.0769 %
+Miss Rate:                9.9231 %
+CPI:                      2.75
+Unused Cache Space:       189.86  / 400.00  KB = 47.46 % Waste: $9.49
+Unused Cache Blocks:        31106  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 4  bytes
+Associativity:			 16
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 18  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 155648.0 Bytes
+Implementation Memory Size: 	 408.0  KB	(417792.0  Bytes)
+Cost: 				 $20.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315660
+Cache Misses:              34806
+--- Compulsary Misses:     34683
+--- Conflict Misses:       123
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.0687 %
+Miss Rate:                9.9313 %
+CPI:                      2.75
+Unused Cache Space:       192.08  / 408.00  KB = 47.08 % Waste: $9.60
+Unused Cache Blocks:        30853  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 4  bytes
+Associativity:			 16
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 18  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 155648.0 Bytes
+Implementation Memory Size: 	 408.0  KB	(417792.0  Bytes)
+Cost: 				 $20.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315699
+Cache Misses:              34767
+--- Compulsary Misses:     34683
+--- Conflict Misses:       84
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.0798 %
+Miss Rate:                9.9202 %
+CPI:                      2.75
+Unused Cache Space:       192.08  / 408.00  KB = 47.08 % Waste: $9.60
+Unused Cache Blocks:        30853  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 16  bytes
+Associativity:			 1
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 14  bits
+Index Size: 			 14  bits
+Total # Rows:: 			 16384
+Overhead Size: 			 30720.0 Bytes
+Implementation Memory Size: 	 286.0  KB	(292864.0  Bytes)
+Cost: 				 $14.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                336500
+Cache Misses:              13966
+--- Compulsary Misses:     8538
+--- Conflict Misses:       5428
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.0150 %
+Miss Rate:                3.9850 %
+CPI:                      2.99
+Unused Cache Space:       136.96  / 286.00  KB = 47.89 % Waste: $6.85
+Unused Cache Blocks:        7846  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 16  bytes
+Associativity:			 1
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 14  bits
+Index Size: 			 14  bits
+Total # Rows:: 			 16384
+Overhead Size: 			 30720.0 Bytes
+Implementation Memory Size: 	 286.0  KB	(292864.0  Bytes)
+Cost: 				 $14.30
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                336500
+Cache Misses:              13966
+--- Compulsary Misses:     8538
+--- Conflict Misses:       5428
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.0150 %
+Miss Rate:                3.9850 %
+CPI:                      2.99
+Unused Cache Space:       136.96  / 286.00  KB = 47.89 % Waste: $6.85
+Unused Cache Blocks:        7846  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 16  bytes
+Associativity:			 2
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 15  bits
+Index Size: 			 13  bits
+Total # Rows:: 			 8192
+Overhead Size: 			 32768.0 Bytes
+Implementation Memory Size: 	 288.0  KB	(294912.0  Bytes)
+Cost: 				 $14.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                337026
+Cache Misses:              13440
+--- Compulsary Misses:     9803
+--- Conflict Misses:       3637
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.1651 %
+Miss Rate:                3.8349 %
+CPI:                      2.97
+Unused Cache Space:       115.68  / 288.00  KB = 40.17 % Waste: $5.78
+Unused Cache Blocks:        6581  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 16  bytes
+Associativity:			 2
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 15  bits
+Index Size: 			 13  bits
+Total # Rows:: 			 8192
+Overhead Size: 			 32768.0 Bytes
+Implementation Memory Size: 	 288.0  KB	(294912.0  Bytes)
+Cost: 				 $14.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                337482
+Cache Misses:              12984
+--- Compulsary Misses:     9803
+--- Conflict Misses:       3181
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.2952 %
+Miss Rate:                3.7048 %
+CPI:                      2.94
+Unused Cache Space:       115.68  / 288.00  KB = 40.17 % Waste: $5.78
+Unused Cache Blocks:        6581  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 16  bytes
+Associativity:			 4
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 16  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 34816.0 Bytes
+Implementation Memory Size: 	 290.0  KB	(296960.0  Bytes)
+Cost: 				 $14.50
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                337255
+Cache Misses:              13211
+--- Compulsary Misses:     10968
+--- Conflict Misses:       2243
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.2304 %
+Miss Rate:                3.7696 %
+CPI:                      2.96
+Unused Cache Space:       95.86  / 290.00  KB = 33.06 % Waste: $4.79
+Unused Cache Blocks:        5416  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 16  bytes
+Associativity:			 4
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 16  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 34816.0 Bytes
+Implementation Memory Size: 	 290.0  KB	(296960.0  Bytes)
+Cost: 				 $14.50
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                337815
+Cache Misses:              12651
+--- Compulsary Misses:     10968
+--- Conflict Misses:       1683
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.3902 %
+Miss Rate:                3.6098 %
+CPI:                      2.93
+Unused Cache Space:       95.86  / 290.00  KB = 33.06 % Waste: $4.79
+Unused Cache Blocks:        5416  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 16  bytes
+Associativity:			 8
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 17  bits
+Index Size: 			 11  bits
+Total # Rows:: 			 2048
+Overhead Size: 			 36864.0 Bytes
+Implementation Memory Size: 	 292.0  KB	(299008.0  Bytes)
+Cost: 				 $14.60
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                337686
+Cache Misses:              12780
+--- Compulsary Misses:     11681
+--- Conflict Misses:       1099
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.3534 %
+Miss Rate:                3.6466 %
+CPI:                      2.94
+Unused Cache Space:       83.82  / 292.00  KB = 28.70 % Waste: $4.19
+Unused Cache Blocks:        4703  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 16  bytes
+Associativity:			 8
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 17  bits
+Index Size: 			 11  bits
+Total # Rows:: 			 2048
+Overhead Size: 			 36864.0 Bytes
+Implementation Memory Size: 	 292.0  KB	(299008.0  Bytes)
+Cost: 				 $14.60
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                338027
+Cache Misses:              12439
+--- Compulsary Misses:     11681
+--- Conflict Misses:       758
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.4507 %
+Miss Rate:                3.5493 %
+CPI:                      2.92
+Unused Cache Space:       83.82  / 292.00  KB = 28.70 % Waste: $4.19
+Unused Cache Blocks:        4703  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 16  bytes
+Associativity:			 16
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 18  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 38912.0 Bytes
+Implementation Memory Size: 	 294.0  KB	(301056.0  Bytes)
+Cost: 				 $14.70
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                337875
+Cache Misses:              12591
+--- Compulsary Misses:     12039
+--- Conflict Misses:       552
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.4074 %
+Miss Rate:                3.5926 %
+CPI:                      2.93
+Unused Cache Space:       77.97  / 294.00  KB = 26.52 % Waste: $3.90
+Unused Cache Blocks:        4345  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 16  bytes
+Associativity:			 16
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 18  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 38912.0 Bytes
+Implementation Memory Size: 	 294.0  KB	(301056.0  Bytes)
+Cost: 				 $14.70
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                338097
+Cache Misses:              12369
+--- Compulsary Misses:     12039
+--- Conflict Misses:       330
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.4707 %
+Miss Rate:                3.5293 %
+CPI:                      2.92
+Unused Cache Space:       77.97  / 294.00  KB = 26.52 % Waste: $3.90
+Unused Cache Blocks:        4345  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 64  bytes
+Associativity:			 1
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 14  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 7680.0 Bytes
+Implementation Memory Size: 	 263.5  KB	(269824.0  Bytes)
+Cost: 				 $13.15
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                344172
+Cache Misses:              6294
+--- Compulsary Misses:     2747
+--- Conflict Misses:       3547
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.2041 %
+Miss Rate:                1.7959 %
+CPI:                      3.51
+Unused Cache Space:       86.78  / 263.50  KB = 32.93 % Waste: $4.34
+Unused Cache Blocks:        1349  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 64  bytes
+Associativity:			 1
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 14  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 7680.0 Bytes
+Implementation Memory Size: 	 263.5  KB	(269824.0  Bytes)
+Cost: 				 $13.15
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                344172
+Cache Misses:              6294
+--- Compulsary Misses:     2747
+--- Conflict Misses:       3547
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.2041 %
+Miss Rate:                1.7959 %
+CPI:                      3.51
+Unused Cache Space:       86.78  / 263.50  KB = 32.93 % Waste: $4.34
+Unused Cache Blocks:        1349  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 64  bytes
+Associativity:			 2
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 15  bits
+Index Size: 			 11  bits
+Total # Rows:: 			 2048
+Overhead Size: 			 8192.0 Bytes
+Implementation Memory Size: 	 264.0  KB	(270336.0  Bytes)
+Cost: 				 $13.20
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                344501
+Cache Misses:              5965
+--- Compulsary Misses:     3148
+--- Conflict Misses:       2817
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.2980 %
+Miss Rate:                1.7020 %
+CPI:                      3.45
+Unused Cache Space:       61.10  / 264.00  KB = 23.14 % Waste: $3.06
+Unused Cache Blocks:        948  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 64  bytes
+Associativity:			 2
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 15  bits
+Index Size: 			 11  bits
+Total # Rows:: 			 2048
+Overhead Size: 			 8192.0 Bytes
+Implementation Memory Size: 	 264.0  KB	(270336.0  Bytes)
+Cost: 				 $13.20
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345125
+Cache Misses:              5341
+--- Compulsary Misses:     3148
+--- Conflict Misses:       2193
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.4760 %
+Miss Rate:                1.5240 %
+CPI:                      3.33
+Unused Cache Space:       61.10  / 264.00  KB = 23.14 % Waste: $3.06
+Unused Cache Blocks:        948  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 64  bytes
+Associativity:			 4
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 16  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 8704.0 Bytes
+Implementation Memory Size: 	 264.5  KB	(270848.0  Bytes)
+Cost: 				 $13.20
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                344325
+Cache Misses:              6141
+--- Compulsary Misses:     3506
+--- Conflict Misses:       2635
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.2478 %
+Miss Rate:                1.7522 %
+CPI:                      3.48
+Unused Cache Space:       38.10  / 264.50  KB = 14.40 % Waste: $1.90
+Unused Cache Blocks:        590  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 64  bytes
+Associativity:			 4
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 16  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 8704.0 Bytes
+Implementation Memory Size: 	 264.5  KB	(270848.0  Bytes)
+Cost: 				 $13.20
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345335
+Cache Misses:              5131
+--- Compulsary Misses:     3506
+--- Conflict Misses:       1625
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.5359 %
+Miss Rate:                1.4641 %
+CPI:                      3.29
+Unused Cache Space:       38.10  / 264.50  KB = 14.40 % Waste: $1.90
+Unused Cache Blocks:        590  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 64  bytes
+Associativity:			 8
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 17  bits
+Index Size: 			 9  bits
+Total # Rows:: 			 512
+Overhead Size: 			 9216.0 Bytes
+Implementation Memory Size: 	 265.0  KB	(271360.0  Bytes)
+Cost: 				 $13.25
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                344585
+Cache Misses:              5881
+--- Compulsary Misses:     3744
+--- Conflict Misses:       2137
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.3219 %
+Miss Rate:                1.6781 %
+CPI:                      3.43
+Unused Cache Space:       22.77  / 265.00  KB = 8.59 % Waste: $1.14
+Unused Cache Blocks:        352  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 64  bytes
+Associativity:			 8
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 17  bits
+Index Size: 			 9  bits
+Total # Rows:: 			 512
+Overhead Size: 			 9216.0 Bytes
+Implementation Memory Size: 	 265.0  KB	(271360.0  Bytes)
+Cost: 				 $13.25
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345518
+Cache Misses:              4948
+--- Compulsary Misses:     3744
+--- Conflict Misses:       1204
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.5882 %
+Miss Rate:                1.4118 %
+CPI:                      3.26
+Unused Cache Space:       22.77  / 265.00  KB = 8.59 % Waste: $1.14
+Unused Cache Blocks:        352  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 64  bytes
+Associativity:			 16
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 18  bits
+Index Size: 			 8  bits
+Total # Rows:: 			 256
+Overhead Size: 			 9728.0 Bytes
+Implementation Memory Size: 	 265.5  KB	(271872.0  Bytes)
+Cost: 				 $13.25
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                344114
+Cache Misses:              6352
+--- Compulsary Misses:     3885
+--- Conflict Misses:       2467
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.1876 %
+Miss Rate:                1.8124 %
+CPI:                      3.52
+Unused Cache Space:       13.68  / 265.50  KB = 5.15 % Waste: $0.68
+Unused Cache Blocks:        211  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 256  kb
+Block Size:			 64  bytes
+Associativity:			 16
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  4096
+Total # Blocks: 		 4096
+Tag Size: 			 18  bits
+Index Size: 			 8  bits
+Total # Rows:: 			 256
+Overhead Size: 			 9728.0 Bytes
+Implementation Memory Size: 	 265.5  KB	(271872.0  Bytes)
+Cost: 				 $13.25
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345575
+Cache Misses:              4891
+--- Compulsary Misses:     3885
+--- Conflict Misses:       1006
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.6044 %
+Miss Rate:                1.3956 %
+CPI:                      3.25
+Unused Cache Space:       13.68  / 265.50  KB = 5.15 % Waste: $0.68
+Unused Cache Blocks:        211  /  4096
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 4  bytes
+Associativity:			 1
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  262144
+Total # Blocks: 		 262144
+Tag Size: 			 12  bits
+Index Size: 			 18  bits
+Total # Rows:: 			 262144
+Overhead Size: 			 425984.0 Bytes
+Implementation Memory Size: 	 1440.0  KB	(1474560.0  Bytes)
+Cost: 				 $72.00
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315073
+Cache Misses:              35393
+--- Compulsary Misses:     32584
+--- Conflict Misses:       2809
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 89.9012 %
+Miss Rate:                10.0988 %
+CPI:                      2.75
+Unused Cache Space:       1261.01  / 1440.00  KB = 87.57 % Waste: $63.05
+Unused Cache Blocks:        229560  /  262144
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 4  bytes
+Associativity:			 1
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  262144
+Total # Blocks: 		 262144
+Tag Size: 			 12  bits
+Index Size: 			 18  bits
+Total # Rows:: 			 262144
+Overhead Size: 			 425984.0 Bytes
+Implementation Memory Size: 	 1440.0  KB	(1474560.0  Bytes)
+Cost: 				 $72.00
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315073
+Cache Misses:              35393
+--- Compulsary Misses:     32584
+--- Conflict Misses:       2809
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 89.9012 %
+Miss Rate:                10.0988 %
+CPI:                      2.75
+Unused Cache Space:       1261.01  / 1440.00  KB = 87.57 % Waste: $63.05
+Unused Cache Blocks:        229560  /  262144
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 4  bytes
+Associativity:			 2
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  262144
+Total # Blocks: 		 262144
+Tag Size: 			 13  bits
+Index Size: 			 17  bits
+Total # Rows:: 			 131072
+Overhead Size: 			 458752.0 Bytes
+Implementation Memory Size: 	 1472.0  KB	(1507328.0  Bytes)
+Cost: 				 $73.60
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315685
+Cache Misses:              34781
+--- Compulsary Misses:     34396
+--- Conflict Misses:       385
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.0758 %
+Miss Rate:                9.9242 %
+CPI:                      2.75
+Unused Cache Space:       1278.86  / 1472.00  KB = 86.88 % Waste: $63.94
+Unused Cache Blocks:        227748  /  262144
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 4  bytes
+Associativity:			 2
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  262144
+Total # Blocks: 		 262144
+Tag Size: 			 13  bits
+Index Size: 			 17  bits
+Total # Rows:: 			 131072
+Overhead Size: 			 458752.0 Bytes
+Implementation Memory Size: 	 1472.0  KB	(1507328.0  Bytes)
+Cost: 				 $73.60
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315661
+Cache Misses:              34805
+--- Compulsary Misses:     34396
+--- Conflict Misses:       409
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.0689 %
+Miss Rate:                9.9311 %
+CPI:                      2.75
+Unused Cache Space:       1278.86  / 1472.00  KB = 86.88 % Waste: $63.94
+Unused Cache Blocks:        227748  /  262144
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 4  bytes
+Associativity:			 4
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  262144
+Total # Blocks: 		 262144
+Tag Size: 			 14  bits
+Index Size: 			 16  bits
+Total # Rows:: 			 65536
+Overhead Size: 			 491520.0 Bytes
+Implementation Memory Size: 	 1504.0  KB	(1540096.0  Bytes)
+Cost: 				 $75.20
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315705
+Cache Misses:              34761
+--- Compulsary Misses:     34724
+--- Conflict Misses:       37
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.0815 %
+Miss Rate:                9.9185 %
+CPI:                      2.75
+Unused Cache Space:       1304.78  / 1504.00  KB = 86.75 % Waste: $65.24
+Unused Cache Blocks:        227420  /  262144
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 4  bytes
+Associativity:			 4
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  262144
+Total # Blocks: 		 262144
+Tag Size: 			 14  bits
+Index Size: 			 16  bits
+Total # Rows:: 			 65536
+Overhead Size: 			 491520.0 Bytes
+Implementation Memory Size: 	 1504.0  KB	(1540096.0  Bytes)
+Cost: 				 $75.20
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315726
+Cache Misses:              34740
+--- Compulsary Misses:     34724
+--- Conflict Misses:       16
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.0875 %
+Miss Rate:                9.9125 %
+CPI:                      2.75
+Unused Cache Space:       1304.78  / 1504.00  KB = 86.75 % Waste: $65.24
+Unused Cache Blocks:        227420  /  262144
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 4  bytes
+Associativity:			 8
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  262144
+Total # Blocks: 		 262144
+Tag Size: 			 15  bits
+Index Size: 			 15  bits
+Total # Rows:: 			 32768
+Overhead Size: 			 524288.0 Bytes
+Implementation Memory Size: 	 1536.0  KB	(1572864.0  Bytes)
+Cost: 				 $76.80
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315725
+Cache Misses:              34741
+--- Compulsary Misses:     34734
+--- Conflict Misses:       7
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.0872 %
+Miss Rate:                9.9128 %
+CPI:                      2.75
+Unused Cache Space:       1332.48  / 1536.00  KB = 86.75 % Waste: $66.62
+Unused Cache Blocks:        227410  /  262144
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 4  bytes
+Associativity:			 8
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  262144
+Total # Blocks: 		 262144
+Tag Size: 			 15  bits
+Index Size: 			 15  bits
+Total # Rows:: 			 32768
+Overhead Size: 			 524288.0 Bytes
+Implementation Memory Size: 	 1536.0  KB	(1572864.0  Bytes)
+Cost: 				 $76.80
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315725
+Cache Misses:              34741
+--- Compulsary Misses:     34734
+--- Conflict Misses:       7
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.0872 %
+Miss Rate:                9.9128 %
+CPI:                      2.75
+Unused Cache Space:       1332.48  / 1536.00  KB = 86.75 % Waste: $66.62
+Unused Cache Blocks:        227410  /  262144
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 4  bytes
+Associativity:			 16
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  262144
+Total # Blocks: 		 262144
+Tag Size: 			 16  bits
+Index Size: 			 14  bits
+Total # Rows:: 			 16384
+Overhead Size: 			 557056.0 Bytes
+Implementation Memory Size: 	 1568.0  KB	(1605632.0  Bytes)
+Cost: 				 $78.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315727
+Cache Misses:              34739
+--- Compulsary Misses:     34734
+--- Conflict Misses:       5
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.0878 %
+Miss Rate:                9.9122 %
+CPI:                      2.75
+Unused Cache Space:       1360.24  / 1568.00  KB = 86.75 % Waste: $68.01
+Unused Cache Blocks:        227410  /  262144
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 4  bytes
+Associativity:			 16
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  262144
+Total # Blocks: 		 262144
+Tag Size: 			 16  bits
+Index Size: 			 14  bits
+Total # Rows:: 			 16384
+Overhead Size: 			 557056.0 Bytes
+Implementation Memory Size: 	 1568.0  KB	(1605632.0  Bytes)
+Cost: 				 $78.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                315726
+Cache Misses:              34740
+--- Compulsary Misses:     34734
+--- Conflict Misses:       6
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 90.0875 %
+Miss Rate:                9.9125 %
+CPI:                      2.75
+Unused Cache Space:       1360.24  / 1568.00  KB = 86.75 % Waste: $68.01
+Unused Cache Blocks:        227410  /  262144
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 16  bytes
+Associativity:			 1
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 12  bits
+Index Size: 			 16  bits
+Total # Rows:: 			 65536
+Overhead Size: 			 106496.0 Bytes
+Implementation Memory Size: 	 1128.0  KB	(1155072.0  Bytes)
+Cost: 				 $56.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                337605
+Cache Misses:              12861
+--- Compulsary Misses:     11216
+--- Conflict Misses:       1645
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.3303 %
+Miss Rate:                3.6697 %
+CPI:                      2.94
+Unused Cache Space:       934.95  / 1128.00  KB = 82.89 % Waste: $46.75
+Unused Cache Blocks:        54320  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 16  bytes
+Associativity:			 1
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 12  bits
+Index Size: 			 16  bits
+Total # Rows:: 			 65536
+Overhead Size: 			 106496.0 Bytes
+Implementation Memory Size: 	 1128.0  KB	(1155072.0  Bytes)
+Cost: 				 $56.40
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                337605
+Cache Misses:              12861
+--- Compulsary Misses:     11216
+--- Conflict Misses:       1645
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.3303 %
+Miss Rate:                3.6697 %
+CPI:                      2.94
+Unused Cache Space:       934.95  / 1128.00  KB = 82.89 % Waste: $46.75
+Unused Cache Blocks:        54320  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 16  bytes
+Associativity:			 2
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 13  bits
+Index Size: 			 15  bits
+Total # Rows:: 			 32768
+Overhead Size: 			 114688.0 Bytes
+Implementation Memory Size: 	 1136.0  KB	(1163264.0  Bytes)
+Cost: 				 $56.80
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                338044
+Cache Misses:              12422
+--- Compulsary Misses:     12066
+--- Conflict Misses:       356
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.4556 %
+Miss Rate:                3.5444 %
+CPI:                      2.92
+Unused Cache Space:       926.85  / 1136.00  KB = 81.59 % Waste: $46.34
+Unused Cache Blocks:        53470  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 16  bytes
+Associativity:			 2
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 13  bits
+Index Size: 			 15  bits
+Total # Rows:: 			 32768
+Overhead Size: 			 114688.0 Bytes
+Implementation Memory Size: 	 1136.0  KB	(1163264.0  Bytes)
+Cost: 				 $56.80
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                338023
+Cache Misses:              12443
+--- Compulsary Misses:     12066
+--- Conflict Misses:       377
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.4496 %
+Miss Rate:                3.5504 %
+CPI:                      2.92
+Unused Cache Space:       926.85  / 1136.00  KB = 81.59 % Waste: $46.34
+Unused Cache Blocks:        53470  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 16  bytes
+Associativity:			 4
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 14  bits
+Index Size: 			 14  bits
+Total # Rows:: 			 16384
+Overhead Size: 			 122880.0 Bytes
+Implementation Memory Size: 	 1144.0  KB	(1171456.0  Bytes)
+Cost: 				 $57.20
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                338098
+Cache Misses:              12368
+--- Compulsary Misses:     12282
+--- Conflict Misses:       86
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.4710 %
+Miss Rate:                3.5290 %
+CPI:                      2.92
+Unused Cache Space:       929.60  / 1144.00  KB = 81.26 % Waste: $46.48
+Unused Cache Blocks:        53254  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 16  bytes
+Associativity:			 4
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 14  bits
+Index Size: 			 14  bits
+Total # Rows:: 			 16384
+Overhead Size: 			 122880.0 Bytes
+Implementation Memory Size: 	 1144.0  KB	(1171456.0  Bytes)
+Cost: 				 $57.20
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                338129
+Cache Misses:              12337
+--- Compulsary Misses:     12282
+--- Conflict Misses:       55
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.4798 %
+Miss Rate:                3.5202 %
+CPI:                      2.91
+Unused Cache Space:       929.60  / 1144.00  KB = 81.26 % Waste: $46.48
+Unused Cache Blocks:        53254  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 16  bytes
+Associativity:			 8
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 15  bits
+Index Size: 			 13  bits
+Total # Rows:: 			 8192
+Overhead Size: 			 131072.0 Bytes
+Implementation Memory Size: 	 1152.0  KB	(1179648.0  Bytes)
+Cost: 				 $57.60
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                338128
+Cache Misses:              12338
+--- Compulsary Misses:     12300
+--- Conflict Misses:       38
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.4795 %
+Miss Rate:                3.5205 %
+CPI:                      2.92
+Unused Cache Space:       935.79  / 1152.00  KB = 81.23 % Waste: $46.79
+Unused Cache Blocks:        53236  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 16  bytes
+Associativity:			 8
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 15  bits
+Index Size: 			 13  bits
+Total # Rows:: 			 8192
+Overhead Size: 			 131072.0 Bytes
+Implementation Memory Size: 	 1152.0  KB	(1179648.0  Bytes)
+Cost: 				 $57.60
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                338150
+Cache Misses:              12316
+--- Compulsary Misses:     12300
+--- Conflict Misses:       16
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.4858 %
+Miss Rate:                3.5142 %
+CPI:                      2.91
+Unused Cache Space:       935.79  / 1152.00  KB = 81.23 % Waste: $46.79
+Unused Cache Blocks:        53236  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 16  bytes
+Associativity:			 16
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 16  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 139264.0 Bytes
+Implementation Memory Size: 	 1160.0  KB	(1187840.0  Bytes)
+Cost: 				 $58.00
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                338119
+Cache Misses:              12347
+--- Compulsary Misses:     12301
+--- Conflict Misses:       46
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.4770 %
+Miss Rate:                3.5230 %
+CPI:                      2.92
+Unused Cache Space:       942.27  / 1160.00  KB = 81.23 % Waste: $47.11
+Unused Cache Blocks:        53235  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 16  bytes
+Associativity:			 16
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  65536
+Total # Blocks: 		 65536
+Tag Size: 			 16  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 139264.0 Bytes
+Implementation Memory Size: 	 1160.0  KB	(1187840.0  Bytes)
+Cost: 				 $58.00
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                338147
+Cache Misses:              12319
+--- Compulsary Misses:     12301
+--- Conflict Misses:       18
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.4850 %
+Miss Rate:                3.5150 %
+CPI:                      2.91
+Unused Cache Space:       942.27  / 1160.00  KB = 81.23 % Waste: $47.11
+Unused Cache Blocks:        53235  /  65536
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 64  bytes
+Associativity:			 1
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 12  bits
+Index Size: 			 14  bits
+Total # Rows:: 			 16384
+Overhead Size: 			 26624.0 Bytes
+Implementation Memory Size: 	 1050.0  KB	(1075200.0  Bytes)
+Cost: 				 $52.50
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345188
+Cache Misses:              5278
+--- Compulsary Misses:     4059
+--- Conflict Misses:       1219
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.4940 %
+Miss Rate:                1.5060 %
+CPI:                      3.32
+Unused Cache Space:       789.87  / 1050.00  KB = 75.23 % Waste: $39.49
+Unused Cache Blocks:        12325  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 64  bytes
+Associativity:			 1
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 12  bits
+Index Size: 			 14  bits
+Total # Rows:: 			 16384
+Overhead Size: 			 26624.0 Bytes
+Implementation Memory Size: 	 1050.0  KB	(1075200.0  Bytes)
+Cost: 				 $52.50
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345188
+Cache Misses:              5278
+--- Compulsary Misses:     4059
+--- Conflict Misses:       1219
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.4940 %
+Miss Rate:                1.5060 %
+CPI:                      3.32
+Unused Cache Space:       789.87  / 1050.00  KB = 75.23 % Waste: $39.49
+Unused Cache Blocks:        12325  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 64  bytes
+Associativity:			 2
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 13  bits
+Index Size: 			 13  bits
+Total # Rows:: 			 8192
+Overhead Size: 			 28672.0 Bytes
+Implementation Memory Size: 	 1052.0  KB	(1077248.0  Bytes)
+Cost: 				 $52.60
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345585
+Cache Misses:              4881
+--- Compulsary Misses:     4512
+--- Conflict Misses:       369
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.6073 %
+Miss Rate:                1.3927 %
+CPI:                      3.25
+Unused Cache Space:       762.29  / 1052.00  KB = 72.46 % Waste: $38.11
+Unused Cache Blocks:        11872  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 64  bytes
+Associativity:			 2
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 13  bits
+Index Size: 			 13  bits
+Total # Rows:: 			 8192
+Overhead Size: 			 28672.0 Bytes
+Implementation Memory Size: 	 1052.0  KB	(1077248.0  Bytes)
+Cost: 				 $52.60
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345603
+Cache Misses:              4863
+--- Compulsary Misses:     4512
+--- Conflict Misses:       351
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.6124 %
+Miss Rate:                1.3876 %
+CPI:                      3.24
+Unused Cache Space:       762.29  / 1052.00  KB = 72.46 % Waste: $38.11
+Unused Cache Blocks:        11872  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 64  bytes
+Associativity:			 4
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 14  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 30720.0 Bytes
+Implementation Memory Size: 	 1054.0  KB	(1079296.0  Bytes)
+Cost: 				 $52.70
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345603
+Cache Misses:              4863
+--- Compulsary Misses:     4663
+--- Conflict Misses:       200
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.6124 %
+Miss Rate:                1.3876 %
+CPI:                      3.24
+Unused Cache Space:       754.02  / 1054.00  KB = 71.54 % Waste: $37.70
+Unused Cache Blocks:        11721  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 64  bytes
+Associativity:			 4
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 14  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 30720.0 Bytes
+Implementation Memory Size: 	 1054.0  KB	(1079296.0  Bytes)
+Cost: 				 $52.70
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345710
+Cache Misses:              4756
+--- Compulsary Misses:     4663
+--- Conflict Misses:       93
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.6429 %
+Miss Rate:                1.3571 %
+CPI:                      3.22
+Unused Cache Space:       754.02  / 1054.00  KB = 71.54 % Waste: $37.70
+Unused Cache Blocks:        11721  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 64  bytes
+Associativity:			 8
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 15  bits
+Index Size: 			 11  bits
+Total # Rows:: 			 2048
+Overhead Size: 			 32768.0 Bytes
+Implementation Memory Size: 	 1056.0  KB	(1081344.0  Bytes)
+Cost: 				 $52.80
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345703
+Cache Misses:              4763
+--- Compulsary Misses:     4695
+--- Conflict Misses:       68
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.6410 %
+Miss Rate:                1.3590 %
+CPI:                      3.22
+Unused Cache Space:       753.39  / 1056.00  KB = 71.34 % Waste: $37.67
+Unused Cache Blocks:        11689  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 64  bytes
+Associativity:			 8
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 15  bits
+Index Size: 			 11  bits
+Total # Rows:: 			 2048
+Overhead Size: 			 32768.0 Bytes
+Implementation Memory Size: 	 1056.0  KB	(1081344.0  Bytes)
+Cost: 				 $52.80
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345745
+Cache Misses:              4721
+--- Compulsary Misses:     4695
+--- Conflict Misses:       26
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.6529 %
+Miss Rate:                1.3471 %
+CPI:                      3.22
+Unused Cache Space:       753.39  / 1056.00  KB = 71.34 % Waste: $37.67
+Unused Cache Blocks:        11689  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 64  bytes
+Associativity:			 16
+Replacement Policy:		 Round Robin
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 16  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 34816.0 Bytes
+Implementation Memory Size: 	 1058.0  KB	(1083392.0  Bytes)
+Cost: 				 $52.90
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345674
+Cache Misses:              4792
+--- Compulsary Misses:     4696
+--- Conflict Misses:       96
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.6327 %
+Miss Rate:                1.3673 %
+CPI:                      3.23
+Unused Cache Space:       754.75  / 1058.00  KB = 71.34 % Waste: $37.74
+Unused Cache Blocks:        11688  /  16384
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 1024  kb
+Block Size:			 64  bytes
+Associativity:			 16
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  16384
+Total # Blocks: 		 16384
+Tag Size: 			 16  bits
+Index Size: 			 10  bits
+Total # Rows:: 			 1024
+Overhead Size: 			 34816.0 Bytes
+Implementation Memory Size: 	 1058.0  KB	(1083392.0  Bytes)
+Cost: 				 $52.90
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                345743
+Cache Misses:              4723
+--- Compulsary Misses:     4696
+--- Conflict Misses:       27
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 98.6524 %
+Miss Rate:                1.3476 %
+CPI:                      3.22
+Unused Cache Space:       754.75  / 1058.00  KB = 71.34 % Waste: $37.74
+Unused Cache Blocks:        11688  /  16384

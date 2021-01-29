@@ -1,0 +1,38 @@
+['C:\\Users\\njmau\\source\\repos\\CS3853Project\\CS3853Project\\comparchprject_main2.py', '-f', 'A-9_new_1.5.pdf.trc', '-s', '512', '-b', '16', '-a', '8', '-r', 'RND']
+Cache Simulator - CS 3853 - Team 03
+
+Trace File:  A-9_new_1.5.pdf.trc
+
+***** Cache Input Parameters *****
+
+Cache Size:			 512  kb
+Block Size:			 16  bytes
+Associativity:			 8
+Replacement Policy:		 Random
+
+***** Cache Calculated Values *****
+
+Block count:  32768
+Total # Blocks: 		 32768
+Tag Size: 			 16  bits
+Index Size: 			 12  bits
+Total # Rows:: 			 4096
+Overhead Size: 			 69632.0 Bytes
+Implementation Memory Size: 	 580.0  KB	(593920.0  Bytes)
+Cost: 				 $29.00
+
+
+ *****  Cache Simulation Results *****
+
+Total Cache Accesses:      350466
+Cache Hits:                338129
+Cache Misses:              12337
+--- Compulsary Misses:     12271
+--- Conflict Misses:       66
+
+ ***** ***** CACHE HIT & MISS RATE: ***** ***** 
+Hit Rate:                 96.4798 %
+Miss Rate:                3.5202 %
+CPI:                      2.91
+Unused Cache Space:       362.80  / 580.00  KB = 62.55 % Waste: $18.14
+Unused Cache Blocks:        20563  /  32768
